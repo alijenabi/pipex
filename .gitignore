@@ -21,6 +21,7 @@
 *.a
 *.la
 *.lo
+libft/*.a
 
 # Shared objects (inc. Windows DLLs)
 *.dll
@@ -35,6 +36,7 @@
 *.i*86
 *.x86_64
 *.hex
+push_swap
 
 # Debug files
 *.dSYM/
@@ -50,3 +52,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+so_long
+.vscode/configurationCache.log
+.vscode/dryrun.log
+.vscode/launch.json
+.vscode/settings.json
+.vscode/targets.log
+.vscode/tasks.json
