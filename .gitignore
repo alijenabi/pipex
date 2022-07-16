@@ -36,7 +36,7 @@ libft/*.a
 *.i*86
 *.x86_64
 *.hex
-push_swap
+pipex
 
 # Debug files
 *.dSYM/
